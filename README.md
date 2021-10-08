@@ -1,6 +1,5 @@
 # Telegram-Bot-Automation
-### This project involves the controlling of home appliances using the TELEGRAM app from anywhere in the world using Telegram. 
-<br>
+#### This project involves the controlling of home appliances using the TELEGRAM app from anywhere in the world using Telegram. 
 <br>
 You will be able to control FAN, LIGHT BULB, HEATER, AIR CONDITIONAL, FRIDGE and etc...
 You can either turn them ON or OFF one by one or at the same time.
@@ -22,7 +21,7 @@ The IOT DEV BOARD will interact with the Telegram bot to receive and handle the 
 - Fan
 - Door
 
-<br>
+
 ### DEVICES AND MODULE
 - ESP32 Development Board
 - 4 Channel Relay Module
