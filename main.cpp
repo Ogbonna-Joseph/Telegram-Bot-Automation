@@ -4,7 +4,7 @@
   #include <ESP8266WiFi.h>
 #endif
 #include <WiFiClientSecure.h>
-#include <UniversalTelegramBot.h>   // Universal Telegram Bot Library written by Brian Lough: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+#include <UniversalTelegramBot.h>   // Universal Telegram Bot Library written by Brian Lough.: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
