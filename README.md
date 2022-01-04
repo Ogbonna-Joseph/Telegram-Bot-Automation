@@ -26,4 +26,4 @@ The IOT DEV BOARD will interact with the Telegram bot to receive and handle the 
 - ESP32 Development Board
 - 4 Channel Relay Module
 - Mobile Phone
-- Connecting wires
+- Connecting wires.
